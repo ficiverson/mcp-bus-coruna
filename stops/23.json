@@ -1,0 +1,71 @@
+{
+  "line": "23",
+  "directions": [
+    {
+      "from": "Abente y Lago",
+      "to": "Breogán",
+      "stops": [
+        { "code": 523, "name": "Abente y Lago" },
+        { "code": 598, "name": "Avenida Porto, A Terraza" },
+        { "code": 5, "name": "Pza. de Ourense" },
+        { "code": 6, "name": "Linares Rivas, 26" },
+        { "code": 7, "name": "Primo de Rivera, 1" },
+        { "code": 270, "name": "Pza. da Palloza" },
+        { "code": 271, "name": "Av. do Exército, Casa do Mar" },
+        { "code": 396, "name": "Ramón y Cajal, 30" },
+        { "code": 397, "name": "Salgado Torres, túnel" },
+        { "code": 579, "name": "Pza. de Casares Quiroga" },
+        { "code": 284, "name": "Pablo Picasso, Isaac Díaz Pardo" },
+        { "code": 285, "name": "Pablo Picasso, 4" },
+        { "code": 417, "name": "O Birloque, Bloque 6-8" },
+        { "code": 205, "name": "A Cabana" },
+        { "code": 294, "name": "FP Someso" },
+        { "code": 295, "name": "O Martinete" },
+        { "code": 296, "name": "Estrada de Pocomaco, O Martinete" },
+        { "code": 297, "name": "Estrada de Mesoiro, glorieta" },
+        { "code": 298, "name": "Mesoiro, 22" },
+        { "code": 299, "name": "Mesoiro, 90" },
+        { "code": 300, "name": "Estrada de Mesoiro, Illas Sisargas" },
+        { "code": 301, "name": "Feáns, 32" },
+        { "code": 302, "name": "Feáns, 56" },
+        { "code": 334, "name": "Obradoiro" },
+        { "code": 335, "name": "Estrada do Obradorio" },
+        { "code": 303, "name": "Feáns, 76" },
+        { "code": 304, "name": "Estrada Cemiterio, Estrada de Uxes" },
+        { "code": 305, "name": "Cemiterio de Feáns" },
+        { "code": 306, "name": "Urbanización Breogán" }
+      ]
+    },
+    {
+      "from": "Breogán",
+      "to": "Abente y Lago",
+      "stops": [
+        { "code": 306, "name": "Urbanización Breogán" },
+        { "code": 307, "name": "Cemiterio de Feáns" },
+        { "code": 308, "name": "Estrada Cemiterio, Estrada de Uxes" },
+        { "code": 309, "name": "Feáns, 109" },
+        { "code": 310, "name": "Feáns, 55" },
+        { "code": 311, "name": "Estrada de Mesoiro, Illas Sisargas" },
+        { "code": 336, "name": "Mesoiro, 73" },
+        { "code": 337, "name": "Mesoiro, 43" },
+        { "code": 338, "name": "Mesoiro, 11" },
+        { "code": 339, "name": "O Martinete, Estrada de Pocomaco" },
+        { "code": 340, "name": "O Martinete" },
+        { "code": 341, "name": "FP Someso" },
+        { "code": 342, "name": "A Cabana" },
+        { "code": 343, "name": "O Birloque, polideportivo" },
+        { "code": 115, "name": "Pablo Picasso, 11" },
+        { "code": 116, "name": "Pablo Picasso, Edif. San Cristóbal" },
+        { "code": 117, "name": "Pablo Picasso, Casares Quiroga" },
+        { "code": 321, "name": "Salgado Torres, túnel" },
+        { "code": 322, "name": "Ramón y Cajal" },
+        { "code": 22, "name": "Av. do Exército, cruzamento Porto" },
+        { "code": 23, "name": "Primo de Rivera, A Palloza" },
+        { "code": 24, "name": "Primo de Rivera, viaduto" },
+        { "code": 25, "name": "Pza. de Ourense" },
+        { "code": 597, "name": "Avenida Porto, entrada parking" },
+        { "code": 523, "name": "Abente y Lago" }
+      ]
+    }
+  ]
+} 

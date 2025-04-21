@@ -1,0 +1,56 @@
+{
+  "line": "20",
+  "directions": [
+    {
+      "from": "Juan Flórez 10",
+      "to": "A Pasaxe",
+      "stops": [
+        { "code": 160, "name": "Juan Flórez, 10" },
+        { "code": 187, "name": "Juan Flórez, 56" },
+        { "code": 188, "name": "Juan Flórez, 82" },
+        { "code": 189, "name": "Juan Flórez, 116" },
+        { "code": 129, "name": "San Pedro de Mezonzo" },
+        { "code": 29, "name": "Av. de Oza, Río Monelos" },
+        { "code": 30, "name": "Av. de Oza, Gaiteira" },
+        { "code": 31, "name": "Av. de Oza, 142" },
+        { "code": 32, "name": "Av. de Oza, 186" },
+        { "code": 55, "name": "Av. da Pasaxe, Av. da Concordia" },
+        { "code": 56, "name": "Av. da Pasaxe, Casablanca" },
+        { "code": 57, "name": "Av. da Pasaxe, San Rafael" },
+        { "code": 59, "name": "CHUAC, glorieta" },
+        { "code": 275, "name": "Av. da Pasaxe, gasolineira" },
+        { "code": 276, "name": "Av. da Pasaxe, oncolóxico" },
+        { "code": 372, "name": "A Pasaxe" }
+      ]
+    },
+    {
+      "from": "A Pasaxe",
+      "to": "Juan Flórez 10",
+      "stops": [
+        { "code": 372, "name": "A Pasaxe" },
+        { "code": 369, "name": "Alcampo" },
+        { "code": 370, "name": "Santa Xema" },
+        { "code": 277, "name": "Av. de Alfonso Molina, Pedralonga" },
+        { "code": 278, "name": "Av. de Alfonso Molina, Palavea" },
+        { "code": 289, "name": "Av. de Alfonso Molina, baixo autoestrada" },
+        { "code": 279, "name": "Av. de Alfonso Molina, Ofimático" },
+        { "code": 281, "name": "Av. de Alfonso Molina, Matogrande" },
+        { "code": 114, "name": "San Cristovo, 2" },
+        { "code": 115, "name": "Pablo Picasso, 11" },
+        { "code": 116, "name": "Pablo Picasso, Edif. San Cristóbal" },
+        { "code": 282, "name": "Paxariñas" },
+        { "code": 119, "name": "Estación de Trens, glorieta" },
+        { "code": 120, "name": "Rda. de Outeiro, 126" },
+        { "code": 121, "name": "Rda. de Outeiro, 152" },
+        { "code": 122, "name": "Rda. de Outeiro, 172" },
+        { "code": 123, "name": "Rda. de Outeiro, 212" },
+        { "code": 395, "name": "Glor. av. de Fisterra, Rda. de Outeiro" },
+        { "code": 233, "name": "Av. de Fisterra, 215" },
+        { "code": 234, "name": "Av. de Fisterra, 147" },
+        { "code": 235, "name": "Av. de Fisterra, 69" },
+        { "code": 236, "name": "Av. de Fisterra, 31" },
+        { "code": 160, "name": "Juan Flórez, 10" }
+      ]
+    }
+  ]
+} 

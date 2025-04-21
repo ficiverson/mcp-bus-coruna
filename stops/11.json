@@ -1,0 +1,65 @@
+ {
+    "line": "11",
+    "directions": [
+      {
+        "from": "As Lagoas",
+        "to": "A. C. Marineda",
+        "stops": [
+          { "code": 549, "name": "As Lagoas" },
+          { "code": 263, "name": "Av. de Hércules, 115" },
+          { "code": 181, "name": "Av. de Hércules, mercado" },
+          { "code": 182, "name": "Av. de Hércules, 37" },
+          { "code": 175, "name": "A Torre, 63" },
+          { "code": 183, "name": "Pza. de España, 24" },
+          { "code": 184, "name": "Panadeiras, Museo" },
+          { "code": 185, "name": "San Andres, Africano" },
+          { "code": 186, "name": "Pza. Pontevedra, IES Eusebio da Guarda" },
+          { "code": 187, "name": "Juan Flórez, 56" },
+          { "code": 188, "name": "Juan Flórez, 82" },
+          { "code": 189, "name": "Juan Flórez, 116" },
+          { "code": 77, "name": "Rda. de Nelle, 26" },
+          { "code": 594, "name": "Avda. Arteixo, 74" },
+          { "code": 466, "name": "Av. de Arteixo, fronte ó 105" },
+          { "code": 467, "name": "Av. de Arteixo, Centro de Saúde" },
+          { "code": 468, "name": "Maria J. Wonenburger" },
+          { "code": 561, "name": "José María Rivera Corral" },
+          { "code": 471, "name": "Severo Ochoa, Galileo Galilei" },
+          { "code": 504, "name": "Severo Ochoa" },
+          { "code": 470, "name": "Severo Ochoa, Newton" },
+          { "code": 469, "name": "Newton" },
+          { "code": 481, "name": "Newton, Galileo Galilei" },
+          { "code": 550, "name": "Área Comercial Marineda" }
+        ]
+      },
+      {
+        "from": "A. C. Marineda",
+        "to": "As Lagoas",
+        "stops": [
+          { "code": 550, "name": "Área Comercial Marineda" },
+          { "code": 212, "name": "Estrada de Carballo, Iveco" },
+          { "code": 472, "name": "Av. da Sardiñeira, Fenosa" },
+          { "code": 473, "name": "Av. da Sardiñeira, IES" },
+          { "code": 255, "name": "Av. da Sardiñeira, Europa" },
+          { "code": 256, "name": "Av. da Sardiñeira, Estación de Trens" },
+          { "code": 120, "name": "Rda. de Outeiro, 126" },
+          { "code": 121, "name": "Rda. de Outeiro, 152" },
+          { "code": 257, "name": "Av. de Arteixo, 85" },
+          { "code": 52, "name": "Rda. de Nelle, Av. de Arteixo" },
+          { "code": 53, "name": "Rda. de Nelle, 9" },
+          { "code": 194, "name": "Juan Flórez, 119" },
+          { "code": 195, "name": "Pza. de Vigo" },
+          { "code": 196, "name": "Pza. de Galicia" },
+          { "code": 197, "name": "Pza. de Pontevedra, 11" },
+          { "code": 167, "name": "San Andrés, 121" },
+          { "code": 168, "name": "San Andrés, 33" },
+          { "code": 169, "name": "Paseo Marítimo, Salesianos" },
+          { "code": 386, "name": "Paseo Marítimo, Matadoiro" },
+          { "code": 387, "name": "Paseo Marítimo, Santa Teresa" },
+          { "code": 388, "name": "Rda. de Monte Alto, 117" },
+          { "code": 389, "name": "Paseo Marítimo, 9" },
+          { "code": 549, "name": "As Lagoas" }
+        ]
+      }
+    ]
+  }
+  

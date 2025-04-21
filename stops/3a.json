@@ -1,0 +1,68 @@
+{
+  "line": "3A",
+  "directions": [
+    {
+      "from": "San Pedro de Visma",
+      "to": "Durmideiras",
+      "stops": [
+        { "code": 130, "name": "San Pedro de Visma, igrexa" },
+        { "code": 131, "name": "San Pedro de Visma, 1" },
+        { "code": 132, "name": "San Pedro de Visma, Estrada do Portiño" },
+        { "code": 358, "name": "Os Rosales, cruzamento San Pedro" },
+        { "code": 42, "name": "Emilio González López, Manuel Azaña" },
+        { "code": 43, "name": "Manuel Azaña, 27" },
+        { "code": 44, "name": "Castelao, Estrada dos Fortes" },
+        { "code": 45, "name": "Gran Canaria, Colombia" },
+        { "code": 46, "name": "Pza. do Conservatorio" },
+        { "code": 47, "name": "Paseo de Rda., IES Salvador de Madariaga" },
+        { "code": 134, "name": "Av. da Habana, 25" },
+        { "code": 384, "name": "Av. da Habana, Pérez Lugin" },
+        { "code": 385, "name": "Av. de Bos Aires" },
+        { "code": 425, "name": "Paseo Marítimo, Modesta Goicouria" },
+        { "code": 426, "name": "Paseo Marítimo, Centro de Saúde" },
+        { "code": 169, "name": "Paseo Marítimo, Salesianos" },
+        { "code": 386, "name": "Paseo Marítimo, Matadoiro" },
+        { "code": 387, "name": "Paseo Marítimo, Santa Teresa" },
+        { "code": 388, "name": "Rda. de Monte Alto, 117" },
+        { "code": 389, "name": "Paseo Marítimo, 9" },
+        { "code": 390, "name": "Paseo Marítimo, FP Ánxel Casal" },
+        { "code": 391, "name": "Glorieta da Torre" },
+        { "code": 170, "name": "Av. de Navarra, 57" },
+        { "code": 150, "name": "Durmideiras, praia" },
+        { "code": 151, "name": "Durmideiras, mercado" }
+      ]
+    },
+    {
+      "from": "Durmideiras",
+      "to": "San Pedro de Visma",
+      "stops": [
+        { "code": 151, "name": "Durmideiras, mercado" },
+        { "code": 170, "name": "Av. de Navarra, 57" },
+        { "code": 173, "name": "Av. de Navarra, 27" },
+        { "code": 174, "name": "A Torre, 91" },
+        { "code": 175, "name": "A Torre, 63" },
+        { "code": 176, "name": "Baltasar Pardal" },
+        { "code": 178, "name": "A Maestranza, Veramar" },
+        { "code": 177, "name": "Hípica" },
+        { "code": 523, "name": "Abente y Lago" },
+        { "code": 598, "name": "Avenida Porto, A Terraza" },
+        { "code": 160, "name": "Juan Flórez, 10" },
+        { "code": 161, "name": "Pza. do Mestre Mateo" },
+        { "code": 162, "name": "Av. da Habana, Estadio" },
+        { "code": 163, "name": "Av. da Habana, Cidade Xardín" },
+        { "code": 83, "name": "Paseo de Rda., Almirante Lángara" },
+        { "code": 84, "name": "Gran Canaria, Pza. de Náutica" },
+        { "code": 85, "name": "Honduras" },
+        { "code": 86, "name": "Labañou, 5" },
+        { "code": 87, "name": "Manuel Azaña, 26" },
+        { "code": 88, "name": "Manuel Azaña, 64" },
+        { "code": 89, "name": "Emilio González López, 32" },
+        { "code": 553, "name": "Emilio González López, 44" },
+        { "code": 90, "name": "Emilio González López, 54" },
+        { "code": 165, "name": "San Pedro de Visma, Estrada Fortes" },
+        { "code": 166, "name": "San Pedro de Visma, Estrada de Bens" },
+        { "code": 130, "name": "San Pedro de Visma, igrexa" }
+      ]
+    }
+  ]
+} 

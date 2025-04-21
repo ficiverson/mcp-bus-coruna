@@ -1,0 +1,66 @@
+{
+  "line": "3",
+  "directions": [
+    {
+      "from": "San Pedro de Visma",
+      "to": "Durmideiras",
+      "stops": [
+        { "code": 130, "name": "San Pedro de Visma, igrexa" },
+        { "code": 131, "name": "San Pedro de Visma, 1" },
+        { "code": 132, "name": "San Pedro de Visma, Estrada do Portiño" },
+        { "code": 358, "name": "Os Rosales, cruzamento San Pedro" },
+        { "code": 42, "name": "Emilio González López, Manuel Azaña" },
+        { "code": 43, "name": "Manuel Azaña, 27" },
+        { "code": 44, "name": "Castelao, Estrada dos Fortes" },
+        { "code": 45, "name": "Gran Canaria, Colombia" },
+        { "code": 46, "name": "Pza. do Conservatorio" },
+        { "code": 47, "name": "Paseo de Rda., IES Salvador de Madariaga" },
+        { "code": 134, "name": "Av. da Habana, 25" },
+        { "code": 384, "name": "Av. da Habana, Pérez Lugin" },
+        { "code": 385, "name": "Av. de Bos Aires" },
+        { "code": 596, "name": "Juan Florez, 18" },
+        { "code": 25, "name": "Pza. de Ourense" },
+        { "code": 597, "name": "Avenida Porto, entrada parking" },
+        { "code": 141, "name": "Museo Militar" },
+        { "code": 482, "name": "A Maestranza, Metrosidero" },
+        { "code": 145, "name": "Orillamar, 6" },
+        { "code": 146, "name": "Orillamar, 42" },
+        { "code": 147, "name": "Cemiterio de Santo Amaro" },
+        { "code": 148, "name": "Orillamar, 96" },
+        { "code": 149, "name": "Residencia Torrente Ballester" },
+        { "code": 150, "name": "Durmideiras, praia" },
+        { "code": 151, "name": "Durmideiras, mercado" }
+      ]
+    },
+    {
+      "from": "Durmideiras",
+      "to": "San Pedro de Visma",
+      "stops": [
+        { "code": 151, "name": "Durmideiras, mercado" },
+        { "code": 152, "name": "Av. de Navarra, glorieta" },
+        { "code": 153, "name": "Cidade Deportiva da Torre" },
+        { "code": 154, "name": "Paseo Marítimo, fronte FP Ánxel Casal" },
+        { "code": 155, "name": "Paseo Marítimo, As Lagoas" },
+        { "code": 156, "name": "Paseo Marítimo, fronte á Domus" },
+        { "code": 157, "name": "Paseo Marítimo, fonte dos Surfistas" },
+        { "code": 159, "name": "Paseo Marítimo, f/ ó Centro de Saúde" },
+        { "code": 160, "name": "Juan Flórez, 10" },
+        { "code": 161, "name": "Pza. do Mestre Mateo" },
+        { "code": 162, "name": "Av. da Habana, Estadio" },
+        { "code": 163, "name": "Av. da Habana, Cidade Xardín" },
+        { "code": 83, "name": "Paseo de Rda., Almirante Lángara" },
+        { "code": 84, "name": "Gran Canaria, Pza. de Náutica" },
+        { "code": 85, "name": "Honduras" },
+        { "code": 86, "name": "Labañou, 5" },
+        { "code": 87, "name": "Manuel Azaña, 26" },
+        { "code": 88, "name": "Manuel Azaña, 64" },
+        { "code": 89, "name": "Emilio González López, 32" },
+        { "code": 553, "name": "Emilio González López, 44" },
+        { "code": 90, "name": "Emilio González López, 54" },
+        { "code": 165, "name": "San Pedro de Visma, Estrada Fortes" },
+        { "code": 166, "name": "San Pedro de Visma, Estrada de Bens" },
+        { "code": 130, "name": "San Pedro de Visma, igrexa" }
+      ]
+    }
+  ]
+} 

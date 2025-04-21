@@ -1,0 +1,47 @@
+{
+  "line": "1",
+  "directions": [
+    {
+      "from": "Abente y Lago",
+      "to": "Castrillón",
+      "stops": [
+        { "code": 523, "name": "Abente y Lago" },
+        { "code": 598, "name": "Avenida Porto, A Terraza" },
+        { "code": 5, "name": "Pza. de Ourense" },
+        { "code": 6, "name": "Linares Rivas, 26" },
+        { "code": 7, "name": "Primo de Rivera, 1" },
+        { "code": 270, "name": "Pza. da Palloza" },
+        { "code": 271, "name": "Av. do Exército, Casa do Mar" },
+        { "code": 272, "name": "Av. do Exército, 16" },
+        { "code": 416, "name": "Av. do Exército, 44" },
+        { "code": 524, "name": "Av. do Exército, 68" },
+        { "code": 525, "name": "Os Castros, Av. da Concordia" },
+        { "code": 64, "name": "Av. da Concordia, 14" },
+        { "code": 65, "name": "Av. da Concordia, 50" },
+        { "code": 66, "name": "Av. da Concordia, 72" },
+        { "code": 67, "name": "Abegondo, 3" },
+        { "code": 68, "name": "Pza. de Pablo Iglesias" }
+      ]
+    },
+    {
+      "from": "Castrillón",
+      "to": "Abente y Lago",
+      "stops": [
+        { "code": 68, "name": "Pza. de Pablo Iglesias" },
+        { "code": 69, "name": "Av. da Concordia, 188" },
+        { "code": 70, "name": "Av. de Monelos, 141" },
+        { "code": 71, "name": "Av. de Monelos, 103" },
+        { "code": 72, "name": "Av. de Monelos, 45" },
+        { "code": 73, "name": "Cabaleiros, 33" },
+        { "code": 74, "name": "Cabaleiros, Estación Autobuses" },
+        { "code": 75, "name": "Concepción Arenal, 21" },
+        { "code": 41, "name": "Costa da Palloza, 5" },
+        { "code": 23, "name": "Primo de Rivera, A Palloza" },
+        { "code": 24, "name": "Primo de Rivera, viaduto" },
+        { "code": 25, "name": "Pza. de Ourense" },
+        { "code": 597, "name": "Avenida Porto, entrada parking" },
+        { "code": 523, "name": "Abente y Lago" }
+      ]
+    }
+  ]
+}

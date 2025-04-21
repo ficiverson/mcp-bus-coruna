@@ -1,0 +1,64 @@
+{
+  "line": "17",
+  "directions": [
+    {
+      "from": "Avenida de Hércules",
+      "to": "CHUAC-Materno",
+      "stops": [
+        { "code": 202, "name": "As Lagoas, glorieta" },
+        { "code": 263, "name": "Av. de Hércules, 115" },
+        { "code": 181, "name": "Av. de Hércules, mercado" },
+        { "code": 182, "name": "Av. de Hércules, 37" },
+        { "code": 175, "name": "A Torre, 63" },
+        { "code": 176, "name": "Baltasar Pardal" },
+        { "code": 178, "name": "A Maestranza, Veramar" },
+        { "code": 177, "name": "Hípica" },
+        { "code": 523, "name": "Abente y Lago" },
+        { "code": 598, "name": "Avenida Porto, A Terraza" },
+        { "code": 5, "name": "Pza. de Ourense" },
+        { "code": 6, "name": "Linares Rivas, 26" },
+        { "code": 7, "name": "Primo de Rivera, 1" },
+        { "code": 270, "name": "Pza. da Palloza" },
+        { "code": 271, "name": "Av. do Exército, Casa do Mar" },
+        { "code": 272, "name": "Av. do Exército, 16" },
+        { "code": 416, "name": "Av. do Exército, 44" },
+        { "code": 524, "name": "Av. do Exército, 68" },
+        { "code": 55, "name": "Av. da Pasaxe, Av. da Concordia" },
+        { "code": 56, "name": "Av. da Pasaxe, Casablanca" },
+        { "code": 57, "name": "Av. da Pasaxe, San Rafael" },
+        { "code": 59, "name": "CHUAC, glorieta" },
+        { "code": 275, "name": "Av. da Pasaxe, gasolineira" },
+        { "code": 293, "name": "Av. da Pasaxe, Materno Infantil" }
+      ]
+    },
+    {
+      "from": "CHUAC-Materno",
+      "to": "Avenida de Hércules",
+      "stops": [
+        { "code": 293, "name": "Av. da Pasaxe, Materno Infantil" },
+        { "code": 500, "name": "Av. da Pasaxe, As Xubias" },
+        { "code": 60, "name": "Av. da Pasaxe, tanatorio" },
+        { "code": 61, "name": "Av. da Pasaxe, viaduto" },
+        { "code": 36, "name": "Av. da Pasaxe, 47" },
+        { "code": 20, "name": "Os Castros" },
+        { "code": 37, "name": "Av. de Oza, 185" },
+        { "code": 38, "name": "Av. de Oza, 141" },
+        { "code": 39, "name": "Av. de Oza, 115" },
+        { "code": 40, "name": "Av. de Oza, 7" },
+        { "code": 41, "name": "Costa da Palloza, 5" },
+        { "code": 23, "name": "Primo de Rivera, A Palloza" },
+        { "code": 24, "name": "Primo de Rivera, viaduto" },
+        { "code": 25, "name": "Pza. de Ourense" },
+        { "code": 597, "name": "Avenida Porto, entrada parking" },
+        { "code": 141, "name": "Museo Militar" },
+        { "code": 482, "name": "A Maestranza, Metrosidero" },
+        { "code": 145, "name": "Orillamar, 6" },
+        { "code": 146, "name": "Orillamar, 42" },
+        { "code": 147, "name": "Cemiterio de Santo Amaro" },
+        { "code": 200, "name": "Santo Tomás, 2" },
+        { "code": 201, "name": "Santo Tomás, 72" },
+        { "code": 202, "name": "As Lagoas, glorieta" }
+      ]
+    }
+  ]
+} 

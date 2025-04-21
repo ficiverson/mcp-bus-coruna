@@ -1,0 +1,46 @@
+{
+  "line": "2A",
+  "directions": [
+    {
+      "from": "Abente y Lago",
+      "to": "H. Oza-As Xubias",
+      "stops": [
+        { "code": 523, "name": "Abente y Lago" },
+        { "code": 598, "name": "Avenida Porto, A Terraza" },
+        { "code": 5, "name": "Pza. de Ourense" },
+        { "code": 6, "name": "Linares Rivas, 26" },
+        { "code": 7, "name": "Primo de Rivera, 1" },
+        { "code": 8, "name": "Catro Camiños" },
+        { "code": 29, "name": "Av. de Oza, Río Monelos" },
+        { "code": 30, "name": "Av. de Oza, Gaiteira" },
+        { "code": 31, "name": "Av. de Oza, 142" },
+        { "code": 32, "name": "Av. de Oza, 186" },
+        { "code": 55, "name": "Av. da Pasaxe, Av. da Concordia" },
+        { "code": 56, "name": "Av. da Pasaxe, Casablanca" },
+        { "code": 590, "name": "Hospital de Oza" },
+        { "code": 591, "name": "As Xubias" }
+      ]
+    },
+    {
+      "from": "H. Oza-As Xubias",
+      "to": "Abente y Lago",
+      "stops": [
+        { "code": 591, "name": "As Xubias" },
+        { "code": 552, "name": "Hospital de Oza" },
+        { "code": 61, "name": "Av. da Pasaxe, viaduto" },
+        { "code": 36, "name": "Av. da Pasaxe, 47" },
+        { "code": 20, "name": "Os Castros" },
+        { "code": 37, "name": "Av. de Oza, 185" },
+        { "code": 38, "name": "Av. de Oza, 141" },
+        { "code": 39, "name": "Av. de Oza, 115" },
+        { "code": 40, "name": "Av. de Oza, 7" },
+        { "code": 41, "name": "Costa da Palloza, 5" },
+        { "code": 23, "name": "Primo de Rivera, A Palloza" },
+        { "code": 24, "name": "Primo de Rivera, viaduto" },
+        { "code": 25, "name": "Pza. de Ourense" },
+        { "code": 597, "name": "Avenida Porto, entrada parking" },
+        { "code": 523, "name": "Abente y Lago" }
+      ]
+    }
+  ]
+} 

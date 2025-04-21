@@ -1,0 +1,65 @@
+{
+  "line": "1a",
+  "directions": [
+    {
+      "from": "Abente y Lago",
+      "to": "A Pasaxe",
+      "stops": [
+        { "code": 523, "name": "Abente y Lago" },
+        { "code": 598, "name": "Avenida Porto, A Terraza" },
+        { "code": 5, "name": "Pza. de Ourense" },
+        { "code": 6, "name": "Linares Rivas, 26" },
+        { "code": 7, "name": "Primo de Rivera, 1" },
+        { "code": 8, "name": "Catro Camiños" },
+        { "code": 9, "name": "Cabaleiros, fronte á Estación Autobuses" },
+        { "code": 10, "name": "Cabaleiros, Ministerios" },
+        { "code": 359, "name": "Salvador de Madariaga, gasolineira" },
+        { "code": 361, "name": "Salvador Madariaga, Rafael Alberti" },
+        { "code": 362, "name": "Camilo José Cela, San Cristovo" },
+        { "code": 557, "name": "Matogrande, rotonda" },
+        { "code": 106, "name": "Camilo José Cela, Matogrande" },
+        { "code": 107, "name": "Camilo José Cela, Liceo La Paz" },
+        { "code": 108, "name": "Glorieta cruzamento Eirís" },
+        { "code": 363, "name": "Av. de Monelos, fronte ó 211" },
+        { "code": 364, "name": "Estrada de Eirís, 40" },
+        { "code": 365, "name": "Av. de Monserrat, xeriátrico" },
+        { "code": 366, "name": "Av. de Monserrat, Urb. Los Arces" },
+        { "code": 367, "name": "Av. de Monserrat, 40" },
+        { "code": 368, "name": "Av. de Pedralonga, Fábrica de Armas" },
+        { "code": 369, "name": "Alcampo" },
+        { "code": 370, "name": "Santa Xema" },
+        { "code": 371, "name": "A Pasaxe, Santa Xema" }
+      ]
+    },
+    {
+      "from": "A Pasaxe",
+      "to": "Abente y Lago",
+      "stops": [
+        { "code": 371, "name": "A Pasaxe, Santa Xema" },
+        { "code": 372, "name": "A Pasaxe" },
+        { "code": 373, "name": "Av. de Pedralonga, 57" },
+        { "code": 374, "name": "Av. de Pedralonga, fronte ó 4" },
+        { "code": 375, "name": "Av. de Monserrat, Oncolóxico" },
+        { "code": 376, "name": "Estrada de Eirís, fronte ó 46" },
+        { "code": 377, "name": "Av. de Monelos, 243" },
+        { "code": 378, "name": "Av. de Monelos, 211" },
+        { "code": 111, "name": "Camilo José Cela, Bloque 20" },
+        { "code": 112, "name": "Camilo José Cela, Bloque 29" },
+        { "code": 113, "name": "Camilo José Cela, Bloque 30" },
+        { "code": 379, "name": "Matogrande" },
+        { "code": 380, "name": "Camilo José Cela, Bloque 40" },
+        { "code": 381, "name": "Salvador Madariaga, Pablo Neruda" },
+        { "code": 382, "name": "Salvador Madariaga, mercado" },
+        { "code": 73, "name": "Cabaleiros, 33" },
+        { "code": 74, "name": "Cabaleiros, Estación Autobuses" },
+        { "code": 75, "name": "Concepción Arenal, 21" },
+        { "code": 41, "name": "Costa da Palloza, 5" },
+        { "code": 23, "name": "Primo de Rivera, A Palloza" },
+        { "code": 24, "name": "Primo de Rivera, viaduto" },
+        { "code": 25, "name": "Pza. de Ourense" },
+        { "code": 597, "name": "Avenida Porto, entrada parking" },
+        { "code": 523, "name": "Abente y Lago" }
+      ]
+    }
+  ]
+} 

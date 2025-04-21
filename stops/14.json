@@ -1,0 +1,73 @@
+{
+  "line": "14",
+  "directions": [
+    {
+      "from": "Os Rosales",
+      "to": "Castrillón",
+      "stops": [
+        { "code": 90, "name": "Emilio González López, 54" },
+        { "code": 42, "name": "Emilio González López, Manuel Azaña" },
+        { "code": 43, "name": "Manuel Azaña, 27" },
+        { "code": 44, "name": "Castelao, Estrada dos Fortes" },
+        { "code": 45, "name": "Gran Canaria, Colombia" },
+        { "code": 46, "name": "Pza. do Conservatorio" },
+        { "code": 47, "name": "Paseo de Rda., IES Salvador de Madariaga" },
+        { "code": 91, "name": "Rda. de Outeiro, Manuel Murguía" },
+        { "code": 92, "name": "Rda. de Outeiro, 293" },
+        { "code": 93, "name": "Rda. de Outeiro, 269" },
+        { "code": 94, "name": "Rda. de Outeiro, 249" },
+        { "code": 95, "name": "Rda. de Outeiro, 219" },
+        { "code": 96, "name": "Rda. de Outeiro, Sagrada Familia" },
+        { "code": 97, "name": "Rda. de Outeiro, Vioño" },
+        { "code": 98, "name": "Rda. de Outeiro, 147" },
+        { "code": 99, "name": "Rda. de Outeiro, 109" },
+        { "code": 264, "name": "Rda. de Outeiro, Hotel Avenida" },
+        { "code": 265, "name": "Rda. de Outeiro, viaduto" },
+        { "code": 505, "name": "Pérez Arda,  Brasil" },
+        { "code": 11, "name": "Av. de Monelos, Torre 8" },
+        { "code": 12, "name": "Av. de Monelos, Bloque 2" },
+        { "code": 506, "name": "Vicente Aleixandre, 55" },
+        { "code": 507, "name": "Vicente Aleixandre, 1" },
+        { "code": 447, "name": "Antonio Noche, 10" },
+        { "code": 15, "name": "Pza. de Pablo Iglesias, 8" }
+      ]
+    },
+    {
+      "from": "Castrillón",
+      "to": "Os Rosales",
+      "stops": [
+        { "code": 15, "name": "Pza. de Pablo Iglesias, 8" },
+        { "code": 508, "name": "Curtis, fronte ó 6" },
+        { "code": 509, "name": "José María Hernansáez, 31" },
+        { "code": 18, "name": "Pza. da Concordia, 27" },
+        { "code": 19, "name": "Av. da Concordia, 9" },
+        { "code": 20, "name": "Os Castros" },
+        { "code": 21, "name": "Av. do Exército, glorieta" },
+        { "code": 268, "name": "Ramón y Cajal, Casa do Mar" },
+        { "code": 40, "name": "Av. de Oza, 7" },
+        { "code": 8, "name": "Catro Camiños" },
+        { "code": 9, "name": "Cabaleiros, fronte á Estación Autobuses" },
+        { "code": 10, "name": "Cabaleiros, Ministerios" },
+        { "code": 269, "name": "Rda. de Outeiro, Pérez Ardá" },
+        { "code": 119, "name": "Estación de Trens, glorieta" },
+        { "code": 120, "name": "Rda. de Outeiro, 126" },
+        { "code": 121, "name": "Rda. de Outeiro, 152" },
+        { "code": 122, "name": "Rda. de Outeiro, 172" },
+        { "code": 123, "name": "Rda. de Outeiro, 212" },
+        { "code": 124, "name": "Rda. de Outeiro, 232" },
+        { "code": 125, "name": "Rda. de Outeiro, 252" },
+        { "code": 126, "name": "Rda. de Outeiro, 272" },
+        { "code": 127, "name": "Rda. de Outeiro, 304" },
+        { "code": 559, "name": "Rda. de Outeiro, IES Rafael Dieste" },
+        { "code": 560, "name": "Educación, Conservatorio" },
+        { "code": 85, "name": "Honduras" },
+        { "code": 86, "name": "Labañou, 5" },
+        { "code": 87, "name": "Manuel Azaña, 26" },
+        { "code": 88, "name": "Manuel Azaña, 64" },
+        { "code": 89, "name": "Emilio González López, 32" },
+        { "code": 553, "name": "Emilio González López, 44" },
+        { "code": 90, "name": "Emilio González López, 54" }
+      ]
+    }
+  ]
+} 

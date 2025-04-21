@@ -1,0 +1,63 @@
+{
+  "line": "22",
+  "directions": [
+    {
+      "from": "Juan Flórez 10",
+      "to": "A Pasaxe",
+      "stops": [
+        { "code": 160, "name": "Juan Flórez, 10" },
+        { "code": 215, "name": "Av. de Fisterra, 44" },
+        { "code": 216, "name": "Av. de Fisterra, 84" },
+        { "code": 217, "name": "Av. de Fisterra, 192" },
+        { "code": 218, "name": "Av. de Fisterra, 256" },
+        { "code": 95, "name": "Rda. de Outeiro, 219" },
+        { "code": 96, "name": "Rda. de Outeiro, Sagrada Familia" },
+        { "code": 97, "name": "Rda. de Outeiro, Vioño" },
+        { "code": 98, "name": "Rda. de Outeiro, 147" },
+        { "code": 99, "name": "Rda. de Outeiro, 109" },
+        { "code": 264, "name": "Rda. de Outeiro, Hotel Avenida" },
+        { "code": 283, "name": "Paxariñas" },
+        { "code": 284, "name": "Pablo Picasso, Isaac Díaz Pardo" },
+        { "code": 285, "name": "Pablo Picasso, 4" },
+        { "code": 582, "name": "Aparcadoiro Lonzas" },
+        { "code": 204, "name": "O Birloque, fronte peña A Chave" },
+        { "code": 105, "name": "San Cristovo, campo de fútbol" },
+        { "code": 286, "name": "Av. de Alfonso Molina, Coliséum" },
+        { "code": 287, "name": "Av. de Alfonso Molina, Edif. Sindicatos" },
+        { "code": 346, "name": "Av. de Alfonso Molina, Campus de Elviña" },
+        { "code": 288, "name": "Av.Alfonso Molina,cruzamento A Zapateira" },
+        { "code": 501, "name": "Lugar de Penarredonda" },
+        { "code": 290, "name": "Av. de Alfonso Molina, Palavea" },
+        { "code": 369, "name": "Alcampo" },
+        { "code": 370, "name": "Santa Xema" },
+        { "code": 371, "name": "A Pasaxe, Santa Xema" }
+      ]
+    },
+    {
+      "from": "A Pasaxe",
+      "to": "Juan Flórez 10",
+      "stops": [
+        { "code": 371, "name": "A Pasaxe, Santa Xema" },
+        { "code": 291, "name": "Av. da Pasaxe, Ponte da Pasaxe" },
+        { "code": 292, "name": "Av. Pasaxe, Colexio Santa María do Mar" },
+        { "code": 293, "name": "Av. da Pasaxe, Materno Infantil" },
+        { "code": 500, "name": "Av. da Pasaxe, As Xubias" },
+        { "code": 59, "name": "CHUAC, glorieta" },
+        { "code": 60, "name": "Av. da Pasaxe, tanatorio" },
+        { "code": 61, "name": "Av. da Pasaxe, viaduto" },
+        { "code": 36, "name": "Av. da Pasaxe, 47" },
+        { "code": 20, "name": "Os Castros" },
+        { "code": 37, "name": "Av. de Oza, 185" },
+        { "code": 38, "name": "Av. de Oza, 141" },
+        { "code": 39, "name": "Av. de Oza, 115" },
+        { "code": 40, "name": "Av. de Oza, 7" },
+        { "code": 41, "name": "Costa da Palloza, 5" },
+        { "code": 23, "name": "Primo de Rivera, A Palloza" },
+        { "code": 24, "name": "Primo de Rivera, viaduto" },
+        { "code": 25, "name": "Pza. de Ourense" },
+        { "code": 186, "name": "Pza. Pontevedra, IES Eusebio da Guarda" },
+        { "code": 160, "name": "Juan Flórez, 10" }
+      ]
+    }
+  ]
+} 

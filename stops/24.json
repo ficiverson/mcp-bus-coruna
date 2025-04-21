@@ -1,0 +1,59 @@
+{
+  "line": "24",
+  "directions": [
+    {
+      "from": "Praza de Pontevedra",
+      "to": "O Carón",
+      "stops": [
+        { "code": 398, "name": "Pza. de Pontevedra, 18" },
+        { "code": 187, "name": "Juan Flórez, 56" },
+        { "code": 188, "name": "Juan Flórez, 82" },
+        { "code": 189, "name": "Juan Flórez, 116" },
+        { "code": 129, "name": "San Pedro de Mezonzo" },
+        { "code": 344, "name": "Av. de Alfonso Molina, Pza. de Madrid" },
+        { "code": 345, "name": "Paxariñas, Álvaro Cunqueiro" },
+        { "code": 286, "name": "Av. de Alfonso Molina, Coliséum" },
+        { "code": 287, "name": "Av. de Alfonso Molina, Edif. Sindicatos" },
+        { "code": 350, "name": "Antonio Insua Rivas, 2" },
+        { "code": 351, "name": "Antonio Insua Rivas, 34" },
+        { "code": 352, "name": "Antonio Insua Rivas, 54" },
+        { "code": 353, "name": "Antonio Insua Rivas, 86" },
+        { "code": 354, "name": "Campus da Zapateira, Arquitectura" },
+        { "code": 452, "name": "Lisboa" },
+        { "code": 453, "name": "Nova York, Belgrado" },
+        { "code": 480, "name": "Nova York, Los Abetos" },
+        { "code": 428, "name": "Nova York, Filoloxía" },
+        { "code": 429, "name": "Nova York, Augas Mansas" },
+        { "code": 571, "name": "Nova York, A Zapateira" },
+        { "code": 443, "name": "Nova York, fronte ó Casino" },
+        { "code": 430, "name": "Nova York, Valaire" },
+        { "code": 464, "name": "O Carón" }
+      ]
+    },
+    {
+      "from": "O Carón",
+      "to": "Praza de Pontevedra",
+      "stops": [
+        { "code": 464, "name": "O Carón" },
+        { "code": 483, "name": "Valaire, O Carón" },
+        { "code": 463, "name": "Valaire 107-109" },
+        { "code": 431, "name": "Nova York, Casino" },
+        { "code": 578, "name": "Nova York, lugar de Monte do Espiño" },
+        { "code": 572, "name": "Nova York, A Zapateira" },
+        { "code": 432, "name": "Nova York, Rialta" },
+        { "code": 433, "name": "Nova York, fronte Filoloxía" },
+        { "code": 435, "name": "Nova York, Amberes" },
+        { "code": 498, "name": "Nova York, Londres" },
+        { "code": 357, "name": "Nova York, Xesuitinas" },
+        { "code": 289, "name": "Av. de Alfonso Molina, baixo autoestrada" },
+        { "code": 279, "name": "Av. de Alfonso Molina, Ofimático" },
+        { "code": 281, "name": "Av. de Alfonso Molina, Matogrande" },
+        { "code": 282, "name": "Paxariñas" },
+        { "code": 399, "name": "Av. Alfonso Molina, Estación Autobuses" },
+        { "code": 400, "name": "Av. de Alfonso Molina, Fdez. Latorre" },
+        { "code": 25, "name": "Pza. de Ourense" },
+        { "code": 398, "name": "Pza. de Pontevedra, 18" }
+      ]
+    }
+  ]
+} 

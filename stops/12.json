@@ -1,0 +1,68 @@
+{
+    "line": "12",
+    "directions": [
+      {
+        "from": "Os Rosales",
+        "to": "CHUAC-Materno",
+        "stops": [
+          { "code": 90, "name": "Emilio González López, 54" },
+          { "code": 42, "name": "Emilio González López, Manuel Azaña" },
+          { "code": 43, "name": "Manuel Azaña, 27" },
+          { "code": 44, "name": "Castelao, Estrada dos Fortes" },
+          { "code": 45, "name": "Gran Canaria, Colombia" },
+          { "code": 46, "name": "Pza. do Conservatorio" },
+          { "code": 47, "name": "Paseo de Rda., IES Salvador de Madariaga" },
+          { "code": 48, "name": "Gregorio Hernández, 2" },
+          { "code": 49, "name": "Rda. de Nelle, 145" },
+          { "code": 50, "name": "Rda. de Nelle, 109" },
+          { "code": 51, "name": "Rda. de Nelle, 73" },
+          { "code": 52, "name": "Rda. de Nelle, Av. de Arteixo" },
+          { "code": 53, "name": "Rda. de Nelle, 9" },
+          { "code": 129, "name": "San Pedro de Mezonzo" },
+          { "code": 29, "name": "Av. de Oza, Río Monelos" },
+          { "code": 30, "name": "Av. de Oza, Gaiteira" },
+          { "code": 31, "name": "Av. de Oza, 142" },
+          { "code": 32, "name": "Av. de Oza, 186" },
+          { "code": 55, "name": "Av. da Pasaxe, Av. da Concordia" },
+          { "code": 56, "name": "Av. da Pasaxe, Casablanca" },
+          { "code": 57, "name": "Av. da Pasaxe, San Rafael" },
+          { "code": 59, "name": "CHUAC, glorieta" },
+          { "code": 275, "name": "Av. da Pasaxe, gasolineira" },
+          { "code": 293, "name": "Av. da Pasaxe, Materno Infantil" }
+        ]
+      },
+      {
+        "from": "CHUAC-Materno",
+        "to": "Os Rosales",
+        "stops": [
+          { "code": 293, "name": "Av. da Pasaxe, Materno Infantil" },
+          { "code": 500, "name": "Av. da Pasaxe, As Xubias" },
+          { "code": 60, "name": "Av. da Pasaxe, tanatorio" },
+          { "code": 61, "name": "Av. da Pasaxe, viaduto" },
+          { "code": 36, "name": "Av. da Pasaxe, 47" },
+          { "code": 20, "name": "Os Castros" },
+          { "code": 37, "name": "Av. de Oza, 185" },
+          { "code": 38, "name": "Av. de Oza, 141" },
+          { "code": 39, "name": "Av. de Oza, 115" },
+          { "code": 40, "name": "Av. de Oza, 7" },
+          { "code": 76, "name": "Enrique Hervada, 4" },
+          { "code": 77, "name": "Rda. de Nelle, 26" },
+          { "code": 78, "name": "Rda. de Nelle, 70" },
+          { "code": 79, "name": "Rda. de Nelle, 90" },
+          { "code": 80, "name": "Rda. de Nelle, 130" },
+          { "code": 81, "name": "Rda. de Nelle, Paseo das Pontes" },
+          { "code": 82, "name": "Paseo de Rda., 24" },
+          { "code": 83, "name": "Paseo de Rda., Almirante Lángara" },
+          { "code": 84, "name": "Gran Canaria, Pza. de Náutica" },
+          { "code": 85, "name": "Honduras" },
+          { "code": 86, "name": "Labañou, 5" },
+          { "code": 87, "name": "Manuel Azaña, 26" },
+          { "code": 88, "name": "Manuel Azaña, 64" },
+          { "code": 89, "name": "Emilio González López, 32" },
+          { "code": 553, "name": "Emilio González López, 44" },
+          { "code": 90, "name": "Emilio González López, 54" }
+        ]
+      }
+    ]
+  }
+  

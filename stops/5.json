@@ -1,0 +1,64 @@
+{
+  "line": "5",
+  "directions": [
+    {
+      "from": "Durmideiras",
+      "to": "Espacio Coruña",
+      "stops": [
+        { "code": 151, "name": "Durmideiras, mercado" },
+        { "code": 170, "name": "Av. de Navarra, 57" },
+        { "code": 173, "name": "Av. de Navarra, 27" },
+        { "code": 174, "name": "A Torre, 91" },
+        { "code": 175, "name": "A Torre, 63" },
+        { "code": 183, "name": "Pza. de España, 24" },
+        { "code": 184, "name": "Panadeiras, Museo" },
+        { "code": 185, "name": "San Andres, Africano" },
+        { "code": 186, "name": "Pza. Pontevedra, IES Eusebio da Guarda" },
+        { "code": 187, "name": "Juan Flórez, 56" },
+        { "code": 188, "name": "Juan Flórez, 82" },
+        { "code": 189, "name": "Juan Flórez, 116" },
+        { "code": 129, "name": "San Pedro de Mezonzo" },
+        { "code": 203, "name": "Marqués de Figueroa" },
+        { "code": 562, "name": "Av. do Ferrocarril, 14" },
+        { "code": 580, "name": "Av. do Ferrocarril,f/ Pza.Ozores Arraiz" },
+        { "code": 563, "name": "Av. do Ferrocarril, 54" },
+        { "code": 581, "name": "Av. do Ferrocarril, Residencial Trébole" },
+        { "code": 564, "name": "San Cristovo, av. da Sardiñeira" },
+        { "code": 582, "name": "Aparcadoiro Lonzas" },
+        { "code": 417, "name": "O Birloque, Bloque 6-8" },
+        { "code": 205, "name": "A Cabana" },
+        { "code": 540, "name": "Espacio Coruña" }
+      ]
+    },
+    {
+      "from": "Espacio Coruña",
+      "to": "Durmideiras",
+      "stops": [
+        { "code": 540, "name": "Espacio Coruña" },
+        { "code": 342, "name": "A Cabana" },
+        { "code": 343, "name": "O Birloque, polideportivo" },
+        { "code": 583, "name": "Aparcadoiro Lonzas" },
+        { "code": 565, "name": "Av. do Ferrocarril, 81" },
+        { "code": 566, "name": "Av. do Ferrocarril, Pza. Ozores Arraiz" },
+        { "code": 567, "name": "Av. do Ferrocarril, 33" },
+        { "code": 119, "name": "Estación de Trens, glorieta" },
+        { "code": 206, "name": "Capitán Juan Varela" },
+        { "code": 207, "name": "Pza. de Monforte" },
+        { "code": 41, "name": "Costa da Palloza, 5" },
+        { "code": 23, "name": "Primo de Rivera, A Palloza" },
+        { "code": 24, "name": "Primo de Rivera, viaduto" },
+        { "code": 25, "name": "Pza. de Ourense" },
+        { "code": 597, "name": "Avenida Porto, entrada parking" },
+        { "code": 141, "name": "Museo Militar" },
+        { "code": 482, "name": "A Maestranza, Metrosidero" },
+        { "code": 145, "name": "Orillamar, 6" },
+        { "code": 146, "name": "Orillamar, 42" },
+        { "code": 147, "name": "Cemiterio de Santo Amaro" },
+        { "code": 148, "name": "Orillamar, 96" },
+        { "code": 149, "name": "Residencia Torrente Ballester" },
+        { "code": 150, "name": "Durmideiras, praia" },
+        { "code": 151, "name": "Durmideiras, mercado" }
+      ]
+    }
+  ]
+} 

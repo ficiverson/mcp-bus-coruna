@@ -1,0 +1,67 @@
+{
+  "line": "6A",
+  "directions": [
+    {
+      "from": "Avenida de Hércules",
+      "to": "Bens",
+      "stops": [
+        { "code": 570, "name": "Rda. de Monte Alto, 52" },
+        { "code": 263, "name": "Av. de Hércules, 115" },
+        { "code": 181, "name": "Av. de Hércules, mercado" },
+        { "code": 182, "name": "Av. de Hércules, 37" },
+        { "code": 175, "name": "A Torre, 63" },
+        { "code": 183, "name": "Pza. de España, 24" },
+        { "code": 184, "name": "Panadeiras, Museo" },
+        { "code": 185, "name": "San Andres, Africano" },
+        { "code": 186, "name": "Pza. Pontevedra, IES Eusebio da Guarda" },
+        { "code": 215, "name": "Av. de Fisterra, 44" },
+        { "code": 216, "name": "Av. de Fisterra, 84" },
+        { "code": 217, "name": "Av. de Fisterra, 192" },
+        { "code": 218, "name": "Av. de Fisterra, 256" },
+        { "code": 219, "name": "Av. de Fisterra, 288" },
+        { "code": 220, "name": "Av. de Fisterra, Ventorrillo" },
+        { "code": 221, "name": "A Silva" },
+        { "code": 222, "name": "Fontenova" },
+        { "code": 223, "name": "A Moura" },
+        { "code": 408, "name": "Estrada de Bens, Penamoa" },
+        { "code": 409, "name": "Chalés Refinería" },
+        { "code": 411, "name": "Comeanda" },
+        { "code": 410, "name": "Mazaído" },
+        { "code": 541, "name": "Igrexa de Bens" },
+        { "code": 412, "name": "Bens" }
+      ]
+    },
+    {
+      "from": "Bens",
+      "to": "Avenida de Hércules",
+      "stops": [
+        { "code": 412, "name": "Bens" },
+        { "code": 522, "name": "Igrexa de Bens" },
+        { "code": 414, "name": "Mazaído" },
+        { "code": 413, "name": "Comeanda" },
+        { "code": 415, "name": "Chalés Refinería" },
+        { "code": 499, "name": "Estrada Bens, av. de Fisterra" },
+        { "code": 228, "name": "A Moura" },
+        { "code": 229, "name": "Fontenova" },
+        { "code": 230, "name": "A Silva" },
+        { "code": 231, "name": "Ventorrillo" },
+        { "code": 232, "name": "Av. de Fisterra, Rda. de Outeiro" },
+        { "code": 233, "name": "Av. de Fisterra, 215" },
+        { "code": 234, "name": "Av. de Fisterra, 147" },
+        { "code": 235, "name": "Av. de Fisterra, 69" },
+        { "code": 236, "name": "Av. de Fisterra, 31" },
+        { "code": 197, "name": "Pza. de Pontevedra, 11" },
+        { "code": 167, "name": "San Andrés, 121" },
+        { "code": 168, "name": "San Andrés, 33" },
+        { "code": 555, "name": "Rúa Hospital, Zalaeta" },
+        { "code": 199, "name": "Pza. de España" },
+        { "code": 146, "name": "Orillamar, 42" },
+        { "code": 147, "name": "Cemiterio de Santo Amaro" },
+        { "code": 148, "name": "Orillamar, 96" },
+        { "code": 568, "name": "Av. de Navarra, Rda. de Monte Alto" },
+        { "code": 569, "name": "Rda. de Monte Alto, 32" },
+        { "code": 570, "name": "Rda. de Monte Alto, 52" }
+      ]
+    }
+  ]
+} 

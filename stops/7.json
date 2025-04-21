@@ -1,0 +1,58 @@
+{
+  "line": "7",
+  "directions": [
+    {
+      "from": "Av. de Hércules",
+      "to": "Ventorrillo",
+      "stops": [
+        { "code": 202, "name": "As Lagoas, glorieta" },
+        { "code": 263, "name": "Av. de Hércules, 115" },
+        { "code": 181, "name": "Av. de Hércules, mercado" },
+        { "code": 182, "name": "Av. de Hércules, 37" },
+        { "code": 175, "name": "A Torre, 63" },
+        { "code": 183, "name": "Pza. de España, 24" },
+        { "code": 184, "name": "Panadeiras, Museo" },
+        { "code": 185, "name": "San Andres, Africano" },
+        { "code": 186, "name": "Pza. Pontevedra, IES Eusebio da Guarda" },
+        { "code": 161, "name": "Pza. do Mestre Mateo" },
+        { "code": 237, "name": "Riazor" },
+        { "code": 238, "name": "Manuel Murguía, Escravas" },
+        { "code": 47, "name": "Paseo de Rda., IES Salvador de Madariaga" },
+        { "code": 240, "name": "Av. de Peruleiro, 20" },
+        { "code": 92, "name": "Rda. de Outeiro, 293" },
+        { "code": 93, "name": "Rda. de Outeiro, 269" },
+        { "code": 241, "name": "Mosteiro de Bergondo, 12" },
+        { "code": 242, "name": "Peñamaría de Llano, 6" },
+        { "code": 243, "name": "Alcalde Jaime Hervada" },
+        { "code": 244, "name": "Ventorrillo, Centro de Saúde" }
+      ]
+    },
+    {
+      "from": "Ventorrillo",
+      "to": "Av. de Hércules",
+      "stops": [
+        { "code": 244, "name": "Ventorrillo, Centro de Saúde" },
+        { "code": 245, "name": "Rodrigo A. de Santiago" },
+        { "code": 125, "name": "Rda. de Outeiro, 252" },
+        { "code": 126, "name": "Rda. de Outeiro, 272" },
+        { "code": 246, "name": "Vila de Negreira, 43" },
+        { "code": 247, "name": "Vila de Negreira, 9" },
+        { "code": 82, "name": "Paseo de Rda., 24" },
+        { "code": 248, "name": "Manuel Murguía, Casa da Auga" },
+        { "code": 249, "name": "Manuel Murguía, pavillón" },
+        { "code": 385, "name": "Av. de Bos Aires" },
+        { "code": 596, "name": "Juan Florez, 18" },
+        { "code": 25, "name": "Pza. de Ourense" },
+        { "code": 597, "name": "Avenida Porto, entrada parking" },
+        { "code": 141, "name": "Museo Militar" },
+        { "code": 482, "name": "A Maestranza, Metrosidero" },
+        { "code": 145, "name": "Orillamar, 6" },
+        { "code": 146, "name": "Orillamar, 42" },
+        { "code": 147, "name": "Cemiterio de Santo Amaro" },
+        { "code": 200, "name": "Santo Tomás, 2" },
+        { "code": 201, "name": "Santo Tomás, 72" },
+        { "code": 202, "name": "As Lagoas, glorieta" }
+      ]
+    }
+  ]
+} 

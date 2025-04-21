@@ -1,0 +1,61 @@
+{
+  "line": "4",
+  "directions": [
+    {
+      "from": "Av. Hércules",
+      "to": "Barrio das Flores",
+      "stops": [
+        { "code": 202, "name": "As Lagoas, glorieta" },
+        { "code": 263, "name": "Av. de Hércules, 115" },
+        { "code": 181, "name": "Av. de Hércules, mercado" },
+        { "code": 182, "name": "Av. de Hércules, 37" },
+        { "code": 175, "name": "A Torre, 63" },
+        { "code": 183, "name": "Pza. de España, 24" },
+        { "code": 184, "name": "Panadeiras, Museo" },
+        { "code": 185, "name": "San Andres, Africano" },
+        { "code": 186, "name": "Pza. Pontevedra, IES Eusebio da Guarda" },
+        { "code": 187, "name": "Juan Flórez, 56" },
+        { "code": 188, "name": "Juan Flórez, 82" },
+        { "code": 189, "name": "Juan Flórez, 116" },
+        { "code": 129, "name": "San Pedro de Mezonzo" },
+        { "code": 9, "name": "Cabaleiros, fronte á Estación Autobuses" },
+        { "code": 10, "name": "Cabaleiros, Ministerios" },
+        { "code": 11, "name": "Av. de Monelos, Torre 8" },
+        { "code": 12, "name": "Av. de Monelos, Bloque 2" },
+        { "code": 445, "name": "Av. de Monelos, Bloque 6" },
+        { "code": 111, "name": "Camilo José Cela, Bloque 20" },
+        { "code": 112, "name": "Camilo José Cela, Bloque 29" },
+        { "code": 113, "name": "Camilo José Cela, Bloque 30" },
+        { "code": 380, "name": "Camilo José Cela, Bloque 40" },
+        { "code": 191, "name": "Camilo José Cela, Bloque 44" },
+        { "code": 192, "name": "Camilo José Cela, Bloque 56" }
+      ]
+    },
+    {
+      "from": "Barrio das Flores",
+      "to": "Av. Hércules",
+      "stops": [
+        { "code": 192, "name": "Camilo José Cela, Bloque 56" },
+        { "code": 193, "name": "Camilo José Cela, Bloque 2" },
+        { "code": 72, "name": "Av. de Monelos, 45" },
+        { "code": 73, "name": "Cabaleiros, 33" },
+        { "code": 74, "name": "Cabaleiros, Estación Autobuses" },
+        { "code": 75, "name": "Concepción Arenal, 21" },
+        { "code": 76, "name": "Enrique Hervada, 4" },
+        { "code": 194, "name": "Juan Flórez, 119" },
+        { "code": 195, "name": "Pza. de Vigo" },
+        { "code": 196, "name": "Pza. de Galicia" },
+        { "code": 197, "name": "Pza. de Pontevedra, 11" },
+        { "code": 167, "name": "San Andrés, 121" },
+        { "code": 168, "name": "San Andrés, 33" },
+        { "code": 555, "name": "Rúa Hospital, Zalaeta" },
+        { "code": 199, "name": "Pza. de España" },
+        { "code": 146, "name": "Orillamar, 42" },
+        { "code": 147, "name": "Cemiterio de Santo Amaro" },
+        { "code": 200, "name": "Santo Tomás, 2" },
+        { "code": 201, "name": "Santo Tomás, 72" },
+        { "code": 202, "name": "As Lagoas, glorieta" }
+      ]
+    }
+  ]
+} 
